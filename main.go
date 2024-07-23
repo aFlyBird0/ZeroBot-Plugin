@@ -204,6 +204,8 @@ import (
 
 	"github.com/FloatTech/ZeroBot-Plugin/kanban/banner"
 	// -----------------------以上为内置依赖，勿动------------------------ //
+
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/scorestatistic" // 考研分数统计
 )
 
 type zbpcfg struct {

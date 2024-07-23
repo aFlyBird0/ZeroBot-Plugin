@@ -1,0 +1,24 @@
+{
+  "zero": {
+    "nickname": [
+      "漂亮小姐姐",
+      "椛椛",
+      "ATRI",
+      "atri",
+      "亚托莉",
+      "アトリ"
+    ],
+    "command_prefix": "/",
+    "super_users": [1606251360],
+    "ring_len": 4096,
+    "latency": 233000000,
+    "max_process_time": 240000000000
+  },
+  "ws": [
+    {
+      "Url": "ws://127.0.0.1:8080",
+      "AccessToken": ""
+    }
+  ],
+  "wss": null
+}
